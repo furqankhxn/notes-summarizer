@@ -1,0 +1,25 @@
+2
+
+.env
+
+1
+
+# Copy this
+
+3
+
+add your Back up now own key from po.,,e.groq.com/ keys
+
+GROQ_API_KEY=gsk_ZkTyMNBMlcIhP9sT2gx7WGdyb3FY Ejh1HZdviDs1Qkx0AHqQTfVO
+
+6
+
+4
+
+5
+
+# Optional: change the model if your Groq acc ount supports another model
+
+GROQ_MODEL=openai/gpt-oss-120b
+
+7
